@@ -1,0 +1,10 @@
+[gammu]
+
+port = /dev/ttyUSB1
+#model = at
+connection = at19200
+logfile = /var/log/modem.log
+synchronizetime = yes
+logformat = nothing
+use_locking =
+gammuloc =
