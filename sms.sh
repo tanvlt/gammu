@@ -1,4 +1,4 @@
-#!/bin/sh
+########!/bin/sh
 HOME=/etc
 PATH=/bin:/sbin:/usr/bin:/usr/sbin
 LOGFILE="/tmp/zabbix-sms.log"
